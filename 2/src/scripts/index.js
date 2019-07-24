@@ -16,7 +16,7 @@ const sketch = new p5(s => {
     }
 
     s.draw = () => {
-      s.background(0)
+      
     }
 
     s.windowResized = () => {
